@@ -1,7 +1,7 @@
 {
-  "name": "soccer-grid",
+  "name": "Grand Army Of the Republic",
   "version": "0.0.1",
-  "description": "Curated list of soccer training videos with search, filtering capabilities",
+  "description": "List of GAR division tryouts",
   "scripts": {
     "clean": "rimraf public",
     "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --watch",
